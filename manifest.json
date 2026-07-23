@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "minAppVersion": "1.4.0",
   "description": "Local, deterministic vault health checks for duplicates, dead links, orphans, and stale notes.",
-  "author": "Vault Checkup Contributors",
-  "isDesktopOnly": false
+  "author": "nautli",
+  "isDesktopOnly": false,
+  "authorUrl": "https://nautli.ai"
 }
