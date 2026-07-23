@@ -1,0 +1,9 @@
+.vault-checkup-view { padding: 12px; }
+.vault-checkup-score { display: flex; align-items: baseline; gap: 6px; margin: 12px 0 18px; }
+.vault-checkup-score strong { color: var(--text-accent); font-size: 3rem; line-height: 1; }
+.vault-checkup-share { margin-left: auto; }
+.vault-checkup-breakdown, .vault-checkup-section, .vault-checkup-teaser { border-top: 1px solid var(--background-modifier-border); margin-top: 16px; padding-top: 12px; }
+.vault-checkup-row { display: flex; justify-content: space-between; gap: 8px; padding: 4px 0; }
+.vault-checkup-section ul { margin: 6px 0; padding-left: 20px; }
+.vault-checkup-note-link { background: none; border: 0; color: var(--link-color); cursor: pointer; padding: 0; text-align: left; }
+.vault-checkup-teaser { background: var(--background-secondary); border: 1px solid var(--background-modifier-border); border-radius: 8px; margin-top: 22px; padding: 12px; }
